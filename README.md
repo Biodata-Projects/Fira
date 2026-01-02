@@ -158,11 +158,11 @@
 #
 # [ Kemampuan Bahasa ]
 #
-- Nama Bahasa
-- Kemampuan Membaca
-- Kemampuan Menulis
-- Kemampuan Berbicara
-- Kemampuan Mendengar
+- Nama Bahasa : Bahasa Indonesia
+- Kemampuan Membaca : Lancar
+- Kemampuan Menulis : Sangat Bagus
+- Kemampuan Berbicara : 
+- Kemampuan Mendengar :
 - Sertifikasi
 - Level Kemampuan
 #
@@ -213,9 +213,9 @@
 #
 # [ Keterampilan Teknis ]
 #
-- Kategori Keterampilan :
-- Nama Keterampilan :
-- Tingkat Keahlian :
+- Kategori Keterampilan : music
+- Nama Keterampilan : menyayi
+- Tingkat Keahlian : sedang
 - Tahun Pengalaman :
 - Sertifikasi :
 #
