@@ -11,8 +11,8 @@
 - Nomor Telepon Rumah :
 - Tempat Tinggal : Desa Bantea
 - Kode Pos : 93761
-- Alamat Lengkap :
-- Koordinat Lokasi :
+- Alamat Lengkap : Dekat Mone, Kec. Lakudo, Kabupaten Buton, Sulawesi Tenggara
+- Koordinat Lokasi : https://maps.app.goo.gl/Mm8ajpfAF8wkeMRT6?g_st=aw [ 5°12'18.8"S 122°30'57.0"E ]
 - Email Pribadi :
 - Email Kantor :
 - Jenis Kelamin : Perempuan
